@@ -1,0 +1,1 @@
+{"uuid":"c2fbc781-efd2-4fdc-ba82-b4900393e4ab","name":"api_test.SimpleDeleteTest","children":["6e87c91b-98ea-4653-8a27-43c3590cd41f"],"befores":[{"name":"addThread","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683491682482,"stop":1683491682482}],"afters":[],"start":1683491682475,"stop":1683491685376}
